@@ -1,3 +1,3 @@
-module github.com/hugo-blox/create-blox
+module github.com/wdyyy/swiper-tailwind
 
 go 1.19
